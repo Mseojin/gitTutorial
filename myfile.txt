@@ -1,7 +1,3 @@
-hello world
-commit1
-commit2-amend
-revertTest1
-revertTest2
-revertTest3
-revertTest4
+1
+2
+3
