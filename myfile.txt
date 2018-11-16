@@ -4,3 +4,4 @@ commit2-amend
 revertTest1
 revertTest2
 revertTest3
+revertTest4
