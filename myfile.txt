@@ -1,4 +1,3 @@
 hello world
 commit1
 commit2-amend
-commit3-amend
